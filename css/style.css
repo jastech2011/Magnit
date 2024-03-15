@@ -1573,9 +1573,9 @@ button.mfp-close img {
 Start Slider Area
 ================================*/
 .single-slide-wrap {
-  background-image: url("../images/home1-slider1.jpg");
+  background-image: url("../images/products/slide-1.jpeg");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   background-position: center center;
   overflow: hidden;
   padding: 230px 0;
@@ -1583,25 +1583,25 @@ Start Slider Area
   z-index: 1;
 }
 .single-slide-wrap.slideBg2 {
-  background-image: url("../images/product/slide-1.jpeg");
+  background-image: url("../images/products/slide-2.jpeg");
 }
 .single-slide-wrap.slideBg3 {
-  background-image: url("../images/home2-slider1.jpg");
+  background-image: url("../images/products/slide-1.jpeg");
 }
 .single-slide-wrap.slideBg4 {
-  background-image: url("../images/home2-slider2.jpg");
+  background-image: url("../images/products/slide-2.jpeg");
 }
 .single-slide-wrap.slideBg5 {
-  background-image: url("../images/home3-slider1.jpg");
+  background-image: url("../images/products/slide-1.jpeg");
 }
 .single-slide-wrap.slideBg6 {
-  background-image: url("../images/home3-slider2.jpg");
+  background-image: url("../images/products/slide-2.jpeg");
 }
 .single-slide-wrap.slideBg7 {
-  background-image: url("../images/home4-slider1.jpg");
+  background-image: url("../images/products/slide-1.jpeg");
 }
 .single-slide-wrap.slideBg8 {
-  background-image: url("../images/home4-slider2.jpg");
+  background-image: url("../images/products/slide-2.jpeg");
 }
 @media only screen and (max-width: 767px) {
   .single-slide-wrap {
